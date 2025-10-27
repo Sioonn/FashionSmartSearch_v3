@@ -1,0 +1,5 @@
+.env
+.vscode
+__pycache__/
+instruction.txt
+data/raw/**
