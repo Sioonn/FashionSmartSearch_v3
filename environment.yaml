@@ -1,25 +1,26 @@
 name: ffs_v3
 channels:
-  - defaults
-  - conda-forge
   - pytorch
+  - conda-forge
+  - defaults
 dependencies:
   - python=3.10
   - pip
-  - numpy
+  - numpy<2
   - pandas
   - matplotlib
   - scikit-learn
   - jupyter
   - pytorch
   - torchvision
+  - torchaudio
   - h5py
   - datasets
-  - torchaudio
-  - dotenv
-  - cudatoolkit=11.8  # CUDA 11.8 GPU 환경일 경우
+  - python-dotenv
+  - cudatoolkit=11.8
   - tqdm
   - pillow
+  - protobuf
   - pip:
       - opencv-python
       - transformers
