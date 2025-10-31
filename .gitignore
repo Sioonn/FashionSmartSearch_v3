@@ -3,3 +3,8 @@
 __pycache__/
 instruction.txt
 data/raw/**
+*.zip
+*.h5
+AGENTS.md
+data/golden_data/image/
+database/images
