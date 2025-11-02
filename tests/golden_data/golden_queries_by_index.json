@@ -1,0 +1,212 @@
+[
+  {
+    "img_path": "database/images/sweatshirt/sweatshirt_1",
+    "user_query": "어두운 버건디색 맨투맨인데, 아이보리 색의 글씨가 옷 전면에 적혀있다. 포근한 색의 WEDNESDAY라는 프린팅이 돋보인다.",
+    "index": 1
+  },
+  {
+    "img_path": "database/images/sweatshirt/sweatshirt_3",
+    "user_query": "전체적으로 검은색 맨투맨인데, 팔 부분에 흰색 선 두개가 있고, 흰색 카라도 존재한다. 양쪽 가슴에 흰색으로 브랜드 로고도 보인다.",
+    "index": 2
+  },
+  {
+    "img_path": "database/images/sweatshirt/sweatshirt_55",
+    "user_query": "미국 국기가 크게 박혀있는 회색 맨투맨",
+    "index": 3
+  },
+  {
+    "img_path": "database/images/sweatshirt/sweatshirt_301",
+    "user_query": "빨간색과 흰색의 스트라이프 패턴이 있는 맨투맨. CGP라는 작은 로고가 있고 흰색 카라도 보인다. 전체적으로 오버핏 느낌.",
+    "index": 4
+  },
+  {
+    "img_path": "database/images/knit_sweater/knit_sweater_16",
+    "user_query": "진한 브라운색 니트인데, 목부분에 단추가 3개 정도 있음 (또는 진한 고동색의 헨리넥 니트 찾아줘)",
+    "index": 5
+  },
+  {
+    "img_path": "database/images/knit_sweater/knit_sweater_162",
+    "user_query": "전체적으로는 네이비색 니트인데, 가운데에 크게 미국 국기가 그려져있어.",
+    "index": 6
+  },
+  {
+    "img_path": "database/images/knit_sweater/knit_sweater_17",
+    "user_query": "네이비색과 베이지색이 교차되는 반팔 단가라 니트 찾아줘.",
+    "index": 7
+  },
+  {
+    "img_path": "database/images/knit_sweater/knit_sweater_264",
+    "user_query": "LEE라고 크게 적혀있는 연한 베이지색 니트 찾아줘.",
+    "index": 8
+  },
+  {
+    "img_path": "database/images/knit_sweater/knit_sweater_282",
+    "user_query": "검은색 반팔 니트인데, 미세한 케이블 패턴이 여러 개 존재하고 카라와 단추도 여러 개 존재하는 니트 찾아줘",
+    "index": 9
+  },
+  {
+    "img_path": "database/images/hoodie/hoodie_50",
+    "user_query": "민트색으로 아치 모양의 영어가 적혀 있는 검은색 후드티.",
+    "index": 10
+  },
+  {
+    "img_path": "database/images/hoodie/hoodie_2",
+    "user_query": "흰색으로 S모양이 앞면에 크게 그려진 버건디색 후드티",
+    "index": 11
+  },
+  {
+    "img_path": "database/images/hoodie/hoodie_46",
+    "user_query": "빨간색 체크무늬로 된 I 라는 글자와, 헬로키티 캐릭터가 같이 있는 검은색 후드티",
+    "index": 12
+  },
+  {
+    "img_path": "database/images/hoodie/hoodie_84",
+    "user_query": "진한 네이비색 후드티의 전면에 흰색 테두리의 고양이가 앞발을 들고 있다.",
+    "index": 13
+  },
+  {
+    "img_path": "database/images/long_padding/long_padding_9",
+    "user_query": "검은색 롱패딩처럼 보이는데, 떡볶이 단추가 달려있어.",
+    "index": 14
+  },
+  {
+    "img_path": "database/images/long_padding/long_padding_98",
+    "user_query": "원색에 가까운 샛노란색 숏패딩 찾아줘",
+    "index": 15
+  },
+  {
+    "img_path": "database/images/other_tops/other_tops_77",
+    "user_query": "빨간색 글씨로 영어와 숫자가 써져있는 흰색 맨투맨",
+    "index": 16
+  },
+  {
+    "img_path": "database/images/other_tops/other_tops_146",
+    "user_query": "25라는 큰 숫자가 적혀있고 아래에 흰색, 금색 선이 있는 검은색 반팔티",
+    "index": 17
+  },
+  {
+    "img_path": "database/images/long_sleeve_tshirt/long_sleeve_tshirt_77",
+    "user_query": "검은색 흰색의 줄무늬가 촘촘히 있는 롱슬리브",
+    "index": 18
+  },
+  {
+    "img_path": "database/images/long_sleeve_tshirt/long_sleeve_tshirt_107",
+    "user_query": "큰 흰색 별이 중앙에 있고 양쪽 팔에도 별들이 있는 검은색 긴팔",
+    "index": 19
+  },
+  {
+    "img_path": "database/images/long_sleeve_tshirt/long_sleeve_tshirt_326",
+    "user_query": "흑인으로 보이는 2명의 얼굴이 있고 작은 스케이트보드와 영어가 적힌 검은색 그래픽이 있는 흰팔 롱슬리브를 찾아",
+    "index": 20
+  },
+  {
+    "img_path": "database/images/long_sleeve_tshirt/long_sleeve_tshirt_467",
+    "user_query": "커다란 초록색 외계인이 서있는 검은색 긴팔 티셔츠",
+    "index": 21
+  },
+  {
+    "img_path": "database/images/safari_jacket/safari_jacket_114",
+    "user_query": "전체적으로 검은색 아우터인데, 베이지색 단추와 카라가 있고 안감은 초록 체크 무늬임",
+    "index": 22
+  },
+  {
+    "img_path": "database/images/shearling/shearling_3",
+    "user_query": "포근한 느낌의 흰색 털 카라에 검은색 가죽 자켓 느낌의 무스탕",
+    "index": 23
+  },
+  {
+    "img_path": "database/images/short_sleeve_tshirt/short_sleeve_tshirt_414",
+    "user_query": "전체적으로 검은색 티셔츠인데, 귀여운 강아지 2마리고 있고 흰색으로 크게 LMC라고 적혀있는 반팔 티셔츠",
+    "index": 24
+  },
+  {
+    "img_path": "database/images/short_sleeve_tshirt/short_sleeve_tshirt_724",
+    "user_query": "진한 핑크색 반팔에 nostalgic이라는 로고가 정면에 써져있는 제품 찾아줘",
+    "index": 25
+  },
+  {
+    "img_path": "database/images/short_sleeve_tshirt/short_sleeve_tshirt_868",
+    "user_query": "검은색 선글라스를 쓰고 있는 흰색 구름같이 생긴 캐릭터가 팔을 벌리고 있는 검은색 반팔 티셔츠",
+    "index": 26
+  },
+  {
+    "img_path": "database/images/sleeveless_tshirt/sleeveless_tshirt_163",
+    "user_query": "운동용 검은색 민소매인데, 등부분이 깊게 파여져있어 근육이 잘 드러남",
+    "index": 27
+  },
+  {
+    "img_path": "database/images/sleeveless_tshirt/sleeveless_tshirt_235",
+    "user_query": "회색의 십자가 프린팅이 정면에 있는 검은색 민소매 셔츠",
+    "index": 28
+  },
+  {
+    "img_path": "database/images/sleeveless_tshirt/sleeveless_tshirt_287",
+    "user_query": "새빨간색의 퓨마 나시",
+    "index": 29
+  },
+  {
+    "img_path": "database/images/spring_coat/spring_coat_142",
+    "user_query": "베이지색 더블코트에 안감은 약간의 체크무늬가 있는 옷 찾아.",
+    "index": 30
+  },
+  {
+    "img_path": "database/images/spring_coat/spring_coat_249",
+    "user_query": "톤다운된 민트색 또는 청록색의 중간 길이 코트",
+    "index": 31
+  },
+  {
+    "img_path": "database/images/stadium_jacket/stadium_jacket_58",
+    "user_query": "대문자 N이 크게 적혀있고, 몸통은 검은색에 소매부분은 흰색인 야구점퍼",
+    "index": 32
+  },
+  {
+    "img_path": "database/images/stadium_jacket/stadium_jacket_172",
+    "user_query": "전체적으로 파란색에 흰색 포인트가 곳곳에 들어간 바시티 자켓",
+    "index": 33
+  },
+  {
+    "img_path": "database/images/stadium_jacket/stadium_jacket_422",
+    "user_query": "지퍼 부분에 영어가 세로로 적혀있고 검은색 모자를 쓴 공 캐릭터가 가슴쪽에 작게 있는 검은색 자켓",
+    "index": 34
+  },
+  {
+    "img_path": "database/images/training_jacket/training_jacket_74",
+    "user_query": "소매 부분에 흰색 검은색 네이비색 선이 길게 있고 옷 아래부분과 카라가 흰색이며, 전체적으로는 검은색인 자켓",
+    "index": 35
+  },
+  {
+    "img_path": "database/images/trucker_jacket/trucker_jacket_2",
+    "user_query": "검은색 데님 자켓에 양쪽 가슴에 주머니가 있고, 곳곳에 얇은 선 형태의 스티치 포인트가 있음",
+    "index": 36
+  },
+  {
+    "img_path": "database/images/trucker_jacket/trucker_jacket_105",
+    "user_query": "몸통은 청색 데님인데, 소매와 후드 모자가 회색이고 후드에는 끈도 있음",
+    "index": 37
+  },
+  {
+    "img_path": "database/images/vest/vest_68",
+    "user_query": "검회색 조끼에 모자와 끈이 달렸고 가슴에 빈티지 느낌의 별모양이 실로 그려져있다",
+    "index": 38
+  },
+  {
+    "img_path": "database/images/vest/vest_79",
+    "user_query": "하늘색 니트 조끼. 구멍이 송송 뚫려있는 짜임새. 시보리가 존재한다.",
+    "index": 39
+  },
+  {
+    "img_path": "database/images/vest/vest_182",
+    "user_query": "아이보리색과 진한 네이비색의 줄무늬가 가로로 있는 니트 베스트",
+    "index": 40
+  },
+  {
+    "img_path": "database/images/zip_up_hoodie/zip_up_hoodie_22",
+    "user_query": "군복에 있는 초록색 위장 무늬에 가운데에는 주황색의 로고와 그래픽이 있는 후드집업",
+    "index": 41
+  },
+  {
+    "img_path": "database/images/zip_up_hoodie/zip_up_hoodie_149",
+    "user_query": "베이지색의 꽈베기 니트인데, 투웨이 집업이 있고 후드도 존재함",
+    "index": 42
+  }
+]
