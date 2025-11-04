@@ -5,6 +5,8 @@ instruction.txt
 data/raw/**
 *.zip
 *.h5
+*.sh
 AGENTS.md
 data/golden_data/image/
 database/images
+logs

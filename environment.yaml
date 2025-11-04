@@ -19,6 +19,7 @@ dependencies:
   - python-dotenv
   - cudatoolkit=11.8
   - tqdm
+  - openai
   - pillow
   - protobuf
   - pip:
@@ -28,3 +29,4 @@ dependencies:
       - requests
       - pyyaml
       - huggingface-hub
+      - openai
